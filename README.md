@@ -38,7 +38,7 @@ Each script is self-contained and typically corresponds to a key topic or lesson
 ├── 09_Panorama_Creation.ipynb
 ├── 10_HDR_Imaging.ipynb
 ├── 11_Object_Tracking.ipynb
-├── 12_Face_Detection.ipynb
+├── 12_Face_Detection.py
 ├── 13_Object_Detection_using_TensorFlow.ipynb
 ├── 14_Pose_Estimation_using_OpenPose.ipynb
 └── README.md
