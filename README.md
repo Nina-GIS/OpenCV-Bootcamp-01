@@ -1,4 +1,5 @@
-# OpenCV Bootcamp 01
+# OpenCV University Bootcamp 01
+## Python and OpenCV
 
 This repository contains a curated set of Python scripts from the **OpenCV Bootcamp Open Course**.  
 The materials were originally available as **Google Colab** notebooks and have been organized in this Repository as script copies for quick reference and hands-on experimentation in local Python environments.
