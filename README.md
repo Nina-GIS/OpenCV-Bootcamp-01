@@ -32,9 +32,9 @@ Each script is self-contained and typically corresponds to a key topic or lesson
 ├── 02_Basic_Image_Manipulations_Crop_Resize_Flip_and_Modify_Pixels.ipynb
 ├── 03_Annotating_Images.ipynb
 ├── 04_Basic_Image_Enhancement_Mathematical_Operations.ipynb
-├── 05_Camera_Access.ipynb
+├── 05_Camera_Access.py
 ├── 06_Writing_Video_using_OpenCV.ipynb
-├── 07_Video_Image_Filtering.ipynb
+├── 07_Video_Image_Filtering.py
 ├── 08_Image_Alignment.ipynb
 ├── 09_Panorama_Creation.ipynb
 ├── 10_HDR_Imaging.ipynb
